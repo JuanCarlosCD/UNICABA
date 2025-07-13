@@ -1,7 +1,8 @@
 
 Repositorio con la información de las clases impartidas en la Universidad de la Ciudad de Buenos Aires
 
-# 📊 Curso de Ciencia de Datos I 2025 - Licenciatura en ciencia de datos
+#  Curso de Ciencia de Datos I 📊
+2025 - Licenciatura en ciencia de datos
 
 Bienvenidos al repositorio del curso de Ciencia de Datos. Aquí encontrarás el material de clase, presentaciones, ejercicios y recursos adicionales.
 
