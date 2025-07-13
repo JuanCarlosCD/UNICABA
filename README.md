@@ -1,4 +1,4 @@
-# UNICABA
+
 Repositorio con la información de las clases impartidas en la Universidad de la Ciudad de Buenos Aires
 
 # 📊 Curso de Ciencia de Datos 2025
@@ -7,13 +7,15 @@ Bienvenidos al repositorio del curso de Ciencia de Datos. Aquí encontrarás el 
 
 ---
 
-## 📚 Contenido
+## 📚 Contenido modificado para esta cursada
 
-| Módulo | Tema                        | Notebooks | Presentación |
-|--------|-----------------------------|-----------|--------------|
-| 01     | Introducción a la Ciencia de Datos | ✅         | ✅            |
-| 05     | Análisis Exploratorio de Datos (EDA) | ✅         | ✅            |
-| ...    | ...                         | ...       | ...          |
+| Módulo | Tema                        | Presentación | Notebooks | Comentarios |
+|--------|-----------------------------|--------------|-----------|-------------|
+| 01     | Introducción a la Ciencia de Datos | ✅         | ❌             | Dentro de la presentacion se encontraba el ejercicio |
+| 02     | Principios de SQL                  | ❌         | ❌             | La sesión se llevo a cabo en https://sqlbolt.com/ para reducir los problemas que podrían generarse en la intalación de la sesión. |
+| 03     | Principios de programación con Python               | ❌          | ✅            | Se generaron tres notebooks para reforzar temás básicos como tipo de datos y visualización con python y collab y el último ya introducia la libreria Pandas. |
+| 05     | Análisis Exploratorio de Datos (EDA) | ✅         | ✅            | Se generaron dos presentaciones: la primera del conceptos de EDA y la otra de cmo usar Python y SQLAlchemy en google Colab |
+| 06    | Storytelling                         | ✅         |❌           | Se generaron dos presentaciones: sobre powerbi y otra de DAX, aunque no nos dio tiempo para ver todo el tema |
 
 ---
 
